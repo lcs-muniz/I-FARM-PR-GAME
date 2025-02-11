@@ -1,0 +1,3 @@
+# Arquivos de configuração
+config.properties
+.env
